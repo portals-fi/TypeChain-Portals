@@ -19,6 +19,7 @@
     { "path": "./packages/target-truffle-v5/tsconfig.build.json" },
     { "path": "./packages/target-ethers-v5/tsconfig.build.json" },
     { "path": "./packages/hardhat/tsconfig.build.json" },
-    { "path": "./packages/target-starknet/tsconfig.build.json" }
+    { "path": "./packages/target-starknet/tsconfig.build.json" },
+    { "path": "./packages/target-ethers-v5-galaxy-guide/tsconfig.build.json" }
   ]
 }
