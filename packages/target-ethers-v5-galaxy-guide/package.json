@@ -8,7 +8,7 @@
     "TypeChain",
     "TypeScript"
   ],
-  "version": "10.1.2",
+  "version": "10.1.3",
   "license": "MIT",
   "repository": "https://github.com/ethereum-ts/Typechain",
   "main": "./dist/index.js",
@@ -39,7 +39,7 @@
     "ethers": "^5.1.3",
     "typechain": "workspace:^8.1.0",
     "typescript": ">=4.3.0",
-    "@portals-fi/galaxy-guide": "^0.7.2"
+    "@portals-fi/galaxy-guide": "^0.8.3"
   },
   "devDependencies": {
     "@ethersproject/abi": "^5.0.0",
