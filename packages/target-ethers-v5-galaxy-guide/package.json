@@ -1,6 +1,6 @@
 {
-  "name": "@portals-fi/ethers-v5-galaxy-guide",
-  "description": "🔌 TypeChain target for ethers-v5-galaxy-guide",
+  "name": "@portals-fi/typechain-ethers-v5",
+  "description": "🔌 TypeChain target for ethers-v5 compatible with galaxy-guide",
   "keywords": [
     "ethers",
     "ethersjs",
@@ -8,7 +8,7 @@
     "TypeChain",
     "TypeScript"
   ],
-  "version": "10.1.3",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": "https://github.com/ethereum-ts/Typechain",
   "main": "./dist/index.js",
@@ -39,7 +39,7 @@
     "ethers": "^5.1.3",
     "typechain": "workspace:^8.1.0",
     "typescript": ">=4.3.0",
-    "@portals-fi/galaxy-guide": "^0.8.3"
+    "@portals-fi/galaxy-guide": "^1.0.0"
   },
   "devDependencies": {
     "@ethersproject/abi": "^5.0.0",
